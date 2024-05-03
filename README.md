@@ -1,16 +1,20 @@
-### Hi there 👋
+# Ruth Inês 💮
 
-<!--
-**ruthinees/ruthinees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Estudande de Engenharia da Computação, técnica em Jogos Digitais e também atua como bolsista de Iniciação Científica em projeto voltado para Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruthinees&bg_color=282a36&border_color=8d192b&title_color=ff6e96&text_color=f8f8f2)
+
+## Contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=souzala&repo=ura&bg_color=282a36&border_color=8d192b&show_icons=true&icon_color=79dafa&title_color=E94D5F&text_color=FFF)](https://github.com/souzala/ura)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ruthinees&repo=dio-lab-open-source&bg_color=282a36&border_color=8d192b&show_icons=true&icon_color=79dafa&title_color=E94D5F&text_color=FFF)](https://github.com/ruthinees/dio-lab-open-source)
+
+## Conecte-se Comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruthinees)
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ruthinees@gmail.com)
