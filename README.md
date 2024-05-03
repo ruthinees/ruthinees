@@ -1,4 +1,4 @@
-# Ruth Inês 💮
+# Ruth Inês 🌸
 
 ## Sobre mim
 
