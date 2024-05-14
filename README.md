@@ -2,7 +2,7 @@
 
 ## Sobre mim/About Me
 
-Estudande de Engenharia da Computação, técnica em Jogos Digitais e também atua como bolsista de Iniciação Científica em projeto voltado para Machine Learning.
+Estudante de Engenharia da Computação, técnica em Jogos Digitais e também atua como bolsista de Iniciação Científica em projeto voltado para Machine Learning.
 
 Computer Engineering student, technician in Digital Games and also works as a Scientific Initiation scholarship holder in a project focused on Machine Learning.
 
