@@ -16,6 +16,8 @@ Computer Engineering student, technician in Digital Games and also works as a Sc
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ruthinees&repo=dio-lab-open-source&bg_color=282a36&border_color=8d192b&show_icons=true&icon_color=79dafa&title_color=E94D5F&text_color=FFF)](https://github.com/ruthinees/dio-lab-open-source)
 
+[![Repo Card](https://github.com/prematuridade-results/Prematury_color=282a36&border_color=8d192b&show_icons=true&icon_color=79dafa&title_color=E94D5F&text_color=FFF)](https://github.com/ruthinees/dio-lab-open-source)
+
 ## Conecte-se Comigo/Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruthinees/)
 
